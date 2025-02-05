@@ -6,14 +6,14 @@ export const Hero = () => {
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat"
         style={{ 
-          backgroundImage: `url(${'/lovable-uploads/a34d7dbc-6d3b-4043-bd7d-e7351d1ac5c7.png'})`,
+          backgroundImage: `url('/placeholder.svg')`,
           filter: 'brightness(0.5)'
         }}
       />
       <div className="relative z-10 h-full flex flex-col items-center justify-center text-white px-4">
         <img 
-          src="/lovable-uploads/a34d7dbc-6d3b-4043-bd7d-e7351d1ac5c7.png" 
-          alt="Hunker Logo" 
+          src="/placeholder.svg" 
+          alt="Logo da Barbearia" 
           className="w-48 mb-8 animate-fade-up"
         />
         <h1 className="text-4xl md:text-6xl font-bold mb-4 text-center animate-fade-up">

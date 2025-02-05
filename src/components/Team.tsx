@@ -2,17 +2,17 @@ const team = [
   {
     name: "Arthur",
     role: "Barbeiro Senior",
-    image: "/lovable-uploads/a34d7dbc-6d3b-4043-bd7d-e7351d1ac5c7.png"
+    image: "/placeholder.svg"
   },
   {
     name: "Amanda",
     role: "Especialista em Cortes",
-    image: "/lovable-uploads/a34d7dbc-6d3b-4043-bd7d-e7351d1ac5c7.png"
+    image: "/placeholder.svg"
   },
   {
     name: "Gabriel",
     role: "Barbeiro Master",
-    image: "/lovable-uploads/a34d7dbc-6d3b-4043-bd7d-e7351d1ac5c7.png"
+    image: "/placeholder.svg"
   }
 ];
 

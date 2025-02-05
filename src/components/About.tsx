@@ -16,8 +16,8 @@ export const About = () => {
         </div>
         <div className="md:w-1/2">
           <img 
-            src="/lovable-uploads/a34d7dbc-6d3b-4043-bd7d-e7351d1ac5c7.png"
-            alt="Barbeiro trabalhando" 
+            src="/placeholder.svg"
+            alt="Ambiente da Barbearia" 
             className="rounded-lg shadow-xl"
           />
         </div>
